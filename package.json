@@ -1,0 +1,32 @@
+{
+  "name": "mistanime-scrapper",
+  "version": "1.0.0",
+  "description": "Simple Gogoanime Scrapper",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KHINKS/MistAnime.git"
+  },
+  "keywords": [
+    "gogoanime-api",
+    "gogoanime",
+    "scrapper",
+    "gogoanime",
+    "api"
+  ],
+  "author": "KHINKS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KHINKS/MistAnime/issues"
+  },
+  "homepage": "https://github.com/KHINKS/MistAnime#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cheerio": "^1.0.0-rc.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
